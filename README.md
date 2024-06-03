@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me LINKEDEN (https://www.linkedin.com/in/sachin-kumar-5440511b8/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 sachinhq/sachinhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
